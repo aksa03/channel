@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
+#PLAYLIST:
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PICTURES HD
 http://randomserver.site:2086/live/crystal/12345/94737.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
