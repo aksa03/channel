@@ -1,0 +1,244 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PICTURES HD
+http://randomserver.site:2086/live/crystal/12345/94737.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
+http://randomserver.site:2086/live/crystal/12345/91908.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& TV HD
+http://randomserver.site:2086/live/crystal/12345/94738.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& TV HD
+http://randomserver.site:2086/live/Bria/Bria/94738.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PICTURES HD
+http://randomserver.site:2086/live/Bria/Bria/94737.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9XM
+http://randomserver.site:2086/live/crystal/12345/94935.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",9XM
+http://randomserver.site:2086/live/Bria/Bria/94935.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",AAJ TAK
+http://randomserver.site:2086/live/crystal/12345/95080.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Undefined",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Undefined",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://randomserver.site:2086/live/Bria/Bria/91900.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BollyWood Hd
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="Undefined",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="Undefined",Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://randomserver.site:2086/live/crystal/12345/91891.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://randomserver.site:2086/live/Bria/Bria/91891.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CINEMACHI KIDS
+http://randomserver.site:2086/live/Bria/Bria/91890.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CINEMACHI KIDS
+http://randomserver.site:2086/live/crystal/12345/91890.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CINEPLEX HD
+http://randomserver.site:2086/live/crystal/12345/94741.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",CINEPLEX HD
+http://randomserver.site:2086/live/Bria/Bria/94741.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",COLOR TV UK
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/26.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Business;Undefined",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",COLORS BANGLA HD
+http://randomserver.site:2086/live/Bria/Bria/91888.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",COLORS BANGLA HD
+http://randomserver.site:2086/live/crystal/12345/91888.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",COLORS HD
+http://randomserver.site:2086/live/Bria/Bria/91887.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",DISCOVERY TURBO
+http://randomserver.site:2086/live/Bria/Bria/91870.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",DISNEY HD
+http://randomserver.site:2086/live/Bria/Bria/91869.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",DISNEY HD
+http://randomserver.site:2086/live/crystal/12345/91869.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Discovery HD
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/57.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/et_now.png" group-title="News",ET Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ETV HD
+http://randomserver.site:2086/live/crystal/12345/94748.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",FOX LIFE HD
+http://randomserver.site:2086/live/crystal/12345/91863.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",FOX LIFE HD
+http://randomserver.site:2086/live/Bria/Bria/91863.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hindi Bollywood Movies
+http://randomserver.site:2086/live/crystal/12345/95120.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hindi Action Movies
+http://randomserver.site:2086/live/crystal/12345/95119.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hindi Comedy Movies
+http://randomserver.site:2086/live/crystal/12345/95121.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hindi Dubbed Movie
+http://randomserver.site:2086/live/crystal/12345/95122.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hindi Romantic Movies
+http://randomserver.site:2086/live/crystal/12345/95125.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hindi Horror Movies
+http://randomserver.site:2086/live/crystal/12345/95123.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hindi Suspense Movies
+http://randomserver.site:2086/live/crystal/12345/95127.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hindi old Classic Movies
+http://randomserver.site:2086/live/crystal/12345/95124.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Hindi superhit Movies
+http://randomserver.site:2086/live/crystal/12345/95126.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/ymVf9aC.jpg" group-title="Undefined",IN | India Today,India Today
+https://edge-1192-ch-gv.filmon.com/live/3482.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/cMJVuIr.jpg" group-title="Undefined",IN | Shemaroo Bollywood Classic,Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",INDIA NEWS
+http://randomserver.site:2086/live/crystal/12345/91859.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",INDIA NEWS
+http://randomserver.site:2086/live/Bria/Bria/91859.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",JALSA MOVIES HD
+http://randomserver.site:2086/live/crystal/12345/94751.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",JALSA MOVIES HD
+http://randomserver.site:2086/live/Bria/Bria/94751.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",JALWA
+http://randomserver.site:2086/live/crystal/12345/94972.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",JALWA
+http://randomserver.site:2086/live/Bria/Bria/94972.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MOVIE ZONE
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MTV BEATS
+http://randomserver.site:2086/live/Bria/Bria/95079.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Undefined",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NDTV INDIA
+http://randomserver.site:2086/live/crystal/12345/95078.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC
+http://randomserver.site:2086/live/Bria/Bria/91851.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC
+http://randomserver.site:2086/live/crystal/12345/91851.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://randomserver.site:2086/live/Bria/Bria/91852.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://randomserver.site:2086/live/crystal/12345/91852.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NICK HD
+http://randomserver.site:2086/live/Bria/Bria/91849.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NICK HD
+http://randomserver.site:2086/live/crystal/12345/91849.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/58.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY HD
+http://randomserver.site:2086/live/Bria/Bria/91836.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY HD
+http://randomserver.site:2086/live/crystal/12345/91836.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY MAX HD
+http://randomserver.site:2086/live/Bria/Bria/94766.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY MAX HD
+http://randomserver.site:2086/live/crystal/12345/94766.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY PIX HD
+http://randomserver.site:2086/live/crystal/12345/94767.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY PIX HD
+http://randomserver.site:2086/live/Bria/Bria/94767.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY SAB HD
+http://randomserver.site:2086/live/crystal/12345/94768.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY SAB HD
+http://randomserver.site:2086/live/Bria/Bria/94768.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY SIX HD
+http://randomserver.site:2086/live/crystal/12345/94770.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY SIX HD
+http://randomserver.site:2086/live/Bria/Bria/94770.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY TEN 1 HD
+http://randomserver.site:2086/live/crystal/12345/94771.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY TEN 2 HD
+http://randomserver.site:2086/live/crystal/12345/94772.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SONY TEN 3 HD
+http://randomserver.site:2086/live/crystal/12345/94773.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR GOLD INDIA 4K
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR GOLD SELECT
+http://randomserver.site:2086/live/crystal/12345/94776.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR JALSA HD
+http://randomserver.site:2086/live/crystal/12345/94777.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR JALSA HD
+http://randomserver.site:2086/live/Bria/Bria/94777.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR MOVIES SELECT HD
+http://randomserver.site:2086/live/crystal/12345/94828.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR MOVIES SELECT HD
+http://randomserver.site:2086/live/Bria/Bria/94828.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR PLUS INDIA 4K
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/29.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR PLUS HD
+http://randomserver.site:2086/live/Bria/Bria/91828.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR PLUS HD
+http://randomserver.site:2086/live/crystal/12345/91828.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HD 1080 50FPS H.264
+http://randomserver.site:2086/live/crystal/12345/94780.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HD 1080 50FPS H.264
+http://randomserver.site:2086/live/Bria/Bria/94780.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HINDI
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/68.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 2 HD
+http://randomserver.site:2086/live/Bria/Bria/94784.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 2 HD
+http://randomserver.site:2086/live/crystal/12345/94784.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HD 1080 H.264
+http://randomserver.site:2086/live/Bria/Bria/94781.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS HINDI 1 HD
+http://randomserver.site:2086/live/crystal/12345/94788.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR WORLD PREMIERE HD
+http://randomserver.site:2086/live/crystal/12345/94826.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",STAR WORLD PREMIERE HD
+http://randomserver.site:2086/live/Bria/Bria/94826.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",TEN 1 HD
+http://randomserver.site:2086/live/crystal/12345/91817.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",TEN 1 HD
+http://randomserver.site:2086/live/Bria/Bria/91817.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",TEN 2 HD
+http://randomserver.site:2086/live/crystal/12345/91816.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",TEN 2 HD
+http://randomserver.site:2086/live/Bria/Bria/91816.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",TEN SPORTS
+http://randomserver.site:2086/live/crystal/12345/91814.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",TEN SPORTS
+http://randomserver.site:2086/live/Bria/Bria/91814.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="News",Times Now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="News",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE ACTION
+http://randomserver.site:2086/live/crystal/12345/95046.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE ACTION
+http://randomserver.site:2086/live/Bria/Bria/95046.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE ANMOL CINEMA
+http://randomserver.site:2086/live/Bria/Bria/95047.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE ANMOL CINEMA
+http://randomserver.site:2086/live/crystal/12345/95047.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE BANGLA HD
+http://randomserver.site:2086/live/Bria/Bria/94798.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE BANGLA HD
+http://randomserver.site:2086/live/crystal/12345/94798.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE BOLLYWOOD
+http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE CINEMA 4K
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/24.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE CAFE
+http://randomserver.site:2086/live/Bria/Bria/91810.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE CINEMA HD
+http://randomserver.site:2086/live/Bria/Bria/91809.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE CINEMA HD
+http://randomserver.site:2086/live/crystal/12345/91809.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE NEWS
+http://randomserver.site:2086/live/Bria/Bria/94801.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE TV 4K
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/23.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZEE TV HD
+http://randomserver.site:2086/live/crystal/12345/94805.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZING
+http://randomserver.site:2086/live/crystal/12345/91914.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",ZING
+http://randomserver.site:2086/live/Bria/Bria/91914.m3u8?checkedby:hlscat.com
